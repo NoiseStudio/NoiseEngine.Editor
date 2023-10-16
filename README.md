@@ -7,7 +7,7 @@
 [discord]: https://discord.gg/X3Wms5jd2x
 
 # GUI editor of NoiseEngine
-**More about project is described in [main repository](https://github.com/NoiseStudio/NoiseEngine).**
+**More about project and contribution are described in [main repository](https://github.com/NoiseStudio/NoiseEngine).**
 
 ## Why this repository is empty?
 Currently we do not focus on editor, because we have more important things to do in engine now. We run this repository in future.

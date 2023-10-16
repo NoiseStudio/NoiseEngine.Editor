@@ -1,9 +1,7 @@
 <img src="https://raw.githubusercontent.com/NoiseStudio/branding/master/NoiseEngine/renders/NoiseEngine-FullLogoColor.png" alt="NoiseEngine logo" height="130">
 
-![Issues](https://img.shields.io/github/issues/NoiseStudio/NoiseEngine)
-![License](https://img.shields.io/github/license/NoiseStudio/NoiseEngine)
-![GitHub stars](https://img.shields.io/github/stars/NoiseStudio/NoiseEngine)
-![GitHub forks](https://img.shields.io/github/forks/NoiseStudio/NoiseEngine)
+![Issues](https://img.shields.io/github/issues/NoiseStudio/NoiseEngine.Editor)
+![License](https://img.shields.io/github/license/NoiseStudio/NoiseEngine.Editor)
 [![Discord](https://img.shields.io/discord/1154793486164430939.svg?logo=discord)][discord]
 
 [discord]: https://discord.gg/X3Wms5jd2x
